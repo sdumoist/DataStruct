@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Dell\Desktop\station\adjMatrix.h(272): warning C4715: “adjMatrix::find_”: 不是所有的控件路径都返回值
+  station.vcxproj -> C:\Users\Dell\Desktop\station\Debug\main.exe
